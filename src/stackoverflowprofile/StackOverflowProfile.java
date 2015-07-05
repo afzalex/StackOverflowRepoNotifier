@@ -338,5 +338,4 @@ public final class StackOverflowProfile extends JFrame {
             }
         });
     }
-
 }
