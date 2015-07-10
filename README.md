@@ -14,6 +14,6 @@ downloadfile=http://stackoverflow.com/users/flair/3626698.png?theme=dark
 browseloc=http://stackoverflow.com/users/3626698/afzalex
 </pre>
 
-<img src="http://s25.postimg.org/ltfgvb7i7/Capture.png" alt="StackOverflowRepoNotifier snapshot from desktop" width="100%" />
+<img src="http://s25.postimg.org/s8ehrze7z/View_image_Capture.jpg" alt="StackOverflowRepoNotifier snapshot from desktop" width="100%" />
 
 Technologies used : Java
