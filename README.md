@@ -15,10 +15,6 @@ downloadfilet=http://stackoverflow.com/users/flair/3626698.png
 #URL to be browsed on click
 browseloc=http://stackoverflow.com/users/3626698/afzalex
 </pre>
-StackOverflowRepoNotifier
-=========================
-
-A gui Application that lets you keep updated about your Stackoverflow score.
 
 <img src="http://s25.postimg.org/ltfgvb7i7/Capture.png" alt="StackOverflowRepoNotifier snapshot from desktop" width="100%" />
 
